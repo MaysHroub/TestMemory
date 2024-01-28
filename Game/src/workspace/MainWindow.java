@@ -24,9 +24,9 @@ public class MainWindow extends Window {
 	
 	private static final String MARTYRS_FILE_NAME = "Martyrs.dat";
 
-	private static final String CORRECT_IMAGE_URL = "file:///C:/Users/ismae/eclipse-workspace/Game/src/pictures/pngwing.com.png"; //"file:///C:/Users/ismae/eclipse-workspace/Game/src/pictures/happybunny2.png";
-	private static final String WRONG_IMAGE_URL = "file:///C:/Users/ismae/eclipse-workspace/Game/src/pictures/pngegg%20(6).png";//"file:///C:/Users/ismae/eclipse-workspace/Game/src/pictures/thinkingbunny.png";
-	private static final String INSTRUCTION_IMAGE_URL = "file:///C:/Users/ismae/eclipse-workspace/Game/src/pictures/pngegg%20(1).png";//"file:///C:/Users/ismae/eclipse-workspace/Game/src/pictures/bunny.png";
+	private static final String CORRECT_IMAGE_URL = "file:///C:/Users/ismae/git/pro-repository/Game/src/pictures/pngwing.com.png"; //"file:///C:/Users/ismae/eclipse-workspace/Game/src/pictures/happybunny2.png";
+	private static final String WRONG_IMAGE_URL = "file:///C:/Users/ismae/git/pro-repository/Game/src/pictures/pngegg%20(6).png";//"file:///C:/Users/ismae/eclipse-workspace/Game/src/pictures/thinkingbunny.png";
+	private static final String INSTRUCTION_IMAGE_URL = "file:///C:/Users/ismae/git/pro-repository/Game/src/pictures/pngegg%20(1).png";//"file:///C:/Users/ismae/eclipse-workspace/Game/src/pictures/bunny.png";
 	
 	private Label mainTitleLabel;
 	private Label desc1Label;

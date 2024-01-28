@@ -22,7 +22,7 @@ public class IntroWindow extends Window {
 	public void initScene() {
 		openInputWindowBtn = new Button("Open  'CREATE MARTYR LIST'  window");
 		openMainWindowBtn = new Button("Open  'MEMORY TEST'  window");
-		helloImageView = new ImageView("file:///C:/Users/ismae/eclipse-workspace/Game/src/pictures/pngegg%20(2).png");
+		helloImageView = new ImageView("file:///C:/Users/ismae/git/pro-repository/Game/src/pictures/pngegg%20(2).png");
 		layout = new VBox(15, helloImageView, openInputWindowBtn, openMainWindowBtn);
 		
 		openInputWindowBtn.setOnAction(e -> openInputWindow());

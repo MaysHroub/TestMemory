@@ -20,9 +20,9 @@ public class InputWindow extends Window {
 
 	private static final String MARTYRS_FILE_NAME = "Martyrs.dat";
 
-	private static final String SUCCESS_IMAGE_URL = "file:///C:/Users/ismae/eclipse-workspace/Game/src/pictures/success.png";
+	private static final String SUCCESS_IMAGE_URL = "file:///C:/Users/ismae/git/pro-repository/Game/src/pictures/success.png";
 
-	private static final String FAIL_IMAGE_URL = "file:///C:/Users/ismae/eclipse-workspace/Game/src/pictures/error.png";
+	private static final String FAIL_IMAGE_URL = "file:///C:/Users/ismae/git/pro-repository/Game/src/pictures/error.png";
 	
 	private Label addLabel;
 	private Label statusLabel;
